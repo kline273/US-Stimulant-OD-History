@@ -3,7 +3,7 @@
 ## Overview
 
 These files are associated with the following publication:
-Kline D, Bunting AM, Hepler SA, Rivera-Aguirre A, Krawczyk N, Cerda M. State-Level History of Overdose Deaths Involving Stimulants in the United States, 1999‒2020. Am J Public Health. 2023 Sep;113(9):991-999. doi: [10.2105/AJPH.2023.307337](doi.org/10.2105/AJPH.2023.307337). PubMed PMID: [37556789](https://pubmed.ncbi.nlm.nih.gov/37556789/).
+Kline D, Bunting AM, Hepler SA, Rivera-Aguirre A, Krawczyk N, Cerda M. State-Level History of Overdose Deaths Involving Stimulants in the United States, 1999‒2020. Am J Public Health. 2023 Sep;113(9):991-999. doi: [10.2105/AJPH.2023.307337](https://doi.org/10.2105/ajph.2023.307337). PubMed PMID: [37556789](https://pubmed.ncbi.nlm.nih.gov/37556789/).
 
 ## Contents
 
